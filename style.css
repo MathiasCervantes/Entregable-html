@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+    font-family: "Outfit", serif;
+     
+}
+
+.iniciosxd{
+    text-align: center;
+    padding: 15px;
+    background-color: #e3b467;
+}
+
+.tituproduct{
+    text-align: center;
+    background-color: #e3b467;
+}
+
+.card{
+    text-align: center;
+    align-items: center;
+    background-color: #f1dbb8;
+}
+
+.card-body{
+    text-align: center;
+    align-items: center;
+    background-color: #f1dbb8;
+    
+    
+}
+
+.card-img-top{
+    width: 60%;
+    text-align: center;
+    align-items: center;
+}
+
+.cartasxd{
+    text-align: center;
+    align-items: center;
+    background-color: #f1dbb8;
+}
+
+
+.footer{
+ margin: 0;
+ padding: 20px 40px;
+ box-sizing: border-box;
+ font-family: "Outfit", serif;
+ position: relative;
+ width: 100%;
+ background: #a3a09b;
+ min-height: 100px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+.body{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    min-height: 100vh;
+    background-color: #a3a09b;
+}
+
+.social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 10px 5px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.icon-elem{
+    list-style: none;
+    flex-direction: row;
+}
+
+.icon{
+    color: azure;
+    font-size: 32px;
+    display: inline-block;
+    flex-direction: row;
+}
+
+.comprasemilla1{
+    text-align: center;
+    align-items: center;
+}
+
+.textcomp{
+    text-align: center;
+    align-items: center;
+}
+
+.botcomp{
+    text-align: center;
+    align-items: center;
+}
